@@ -152,7 +152,6 @@ export const notAuditedSuperBlocks: NotAuditedSuperBlocks = {
     SuperBlocks.JsAlgoDataStructNew,
     SuperBlocks.UpcomingPython,
     SuperBlocks.A2English,
-    SuperBlocks.PythonForEverybody
   ],
   [Languages.Japanese]: [
     SuperBlocks.JsAlgoDataStructNew,
