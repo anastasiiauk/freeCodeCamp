@@ -96,7 +96,7 @@ Listen to the audio. What is the best answer to this question? <!-- (quiz audio)
 {
   "audio": {
     "filename": "3.1-1.mp3",
-    "startTimestamp": 2.7,
+    "startTimestamp": 2.75,
     "finishTimestamp": 5.3
   },
   "transcript": [
